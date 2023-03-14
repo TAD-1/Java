@@ -2,7 +2,7 @@ import java.lang.System;
 import java.lang.String;
 import java.util.Scanner;
 
-public class Timtiman_PropositionalCalculator{
+public class PropositionalCalculator{
 
  public static void main (String args []){
   
