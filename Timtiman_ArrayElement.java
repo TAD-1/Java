@@ -3,7 +3,7 @@ import java.lang.String;
 import java.util.Scanner;
 import java.util.InputMismatchException;
 
-public class Timtiman_ArrayElement{
+public class ArrayElement{
  public static void main(String[] args){
     
      
